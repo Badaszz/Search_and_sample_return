@@ -41,9 +41,6 @@ Readme.md                   # Readme markdown file
 
 ## 📸 Demo
 
-![Setup](media/SSR_pic.png)  
-*My environment setup*
-
 ![Rover demo](media/rover_demo.gif)  
 *Rover autonomously exploring and collecting samples.*
 
