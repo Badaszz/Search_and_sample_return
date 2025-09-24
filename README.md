@@ -41,7 +41,8 @@ Readme.md                   # Readme markdown file
 
 ## 📸 Demo
 
-![Setup](media/rover_demo.gif)  
+
+![Setup](media/SSR_pic.png)  
 *My environment setup*
 
 ![Rover demo](media/rover_demo.gif)  
